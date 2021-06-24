@@ -1,0 +1,38 @@
+
+.inicio{
+    background-color: #E9967A;
+    color: black;
+}
+
+.inicio2{
+    background-color: black;
+    color: white;
+}
+
+
+.margin{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+.margin-footer{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.bg-footer{
+    background-color: #E9967A;
+    color:  black;
+}
+
+
+.card-button {
+    width: 100%;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding: 1em;
+    background-color: #141A28;
+    display: flex;
+    justify-content: center;
+}
