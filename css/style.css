@@ -1,6 +1,6 @@
 
 .inicio{
-    background-color: #E9967A;
+    background-color:  #aee3ec;
     color: black;
 }
 
@@ -22,8 +22,8 @@
 }
 
 .bg-footer{
-    background-color: #E9967A;
-    color:  black;
+    background-color: #1C1C1C;
+    color:  #696969;
 }
 
 
@@ -35,4 +35,18 @@
     background-color: #141A28;
     display: flex;
     justify-content: center;
+}
+.margem1 {
+    background: #aee3ec;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+.margem2 {
+    background: #696969;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
 }
